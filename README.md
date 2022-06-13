@@ -1,4 +1,4 @@
-# [Laravel REST API](https://adminlte.io)
+# [Laravel-rest-test](https://adminlte.io)
 
 Es un programa de prueba basado en el Framework Laravel. Trabaja con Bootstrap y JS/jQuery.
 
